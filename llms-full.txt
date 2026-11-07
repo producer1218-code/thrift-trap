@@ -8,7 +8,7 @@
 版本 v4.0 | 2026-11 | zh-CN | MIT License
 不构成投资、法律或医疗建议。
 
-来源：https://github.com/producer1218-code/新过日子指南
+来源：https://github.com/producer1218-code/thrift-trap
 
 证据分级：🟢 官方统计/大样本研究 | 🟡 单项研究/媒体报道 | 🔴 网络现象/个人经验 | 💭 作者判断
 
